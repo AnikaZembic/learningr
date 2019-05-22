@@ -2,3 +2,4 @@
 .Rhistory
 .RData
 data/iris.csv
+.DS_Store
