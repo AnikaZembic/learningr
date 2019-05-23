@@ -1,0 +1,46 @@
+---
+title: "Report Exercise"
+author: "Anika Zembic"
+date: "5/23/2019"
+output: 
+  html_document:
+  theme: sandstone 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Abstract
+
+This is a R Markdown about **THE R MARKDOWN**. It is *amazing*!
+
+# Introduction
+
+1. What is the R Markdown
+2. Why is it amazing?
+3. What is the best type of dog?
+
+# Material and Methods
+
+## Statistical analysis
+
+This part is about the statisrtics of which dog is the best.
+
+# Results
+
+**This** is the best type of dog
+
+![A majestic corgi in a field](https://vetstreet-brightspot.s3.amazonaws.com/83/9e8de0a7f411e0a0d50050568d634f/file/Pembroke-Welsh-Corgi-3-645mk62711.jpg)
+
+
+Footnote[^1]
+
+[^1]: Other dogs are also pretty cool
+
+# Discussion
+There is **NO** discussion about this topic!
+
+# Conclusion
+This is my [GitHub profile](https://github.com/AnikaZembic)
+  
